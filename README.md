@@ -1,8 +1,8 @@
 # Analytics-Report-for-Superstore-USA
-Analytics Report foe superstore,USA
+Analytics Report for superstore,USA
 A dynamic, interactive report build to see Sales,Profit and orders.
 
-This report is visually engaging and give user to explore and find the insights by various feilds like Category wise,Sub-Category wise,States wise ,Sales Trend
+This report is visually engaging and give user to explore and find the insights by various feilds like Category wise,Sub-Category wise,States wise.
 I have created 3 cards,6 charts,2 filters and 1 slicer for selecting sales,Profit or Orders
 
 This Dashboard is build using tableau and its various features like calculated fields, parameters, action filters, context filters, top N logic, interactive charts, and show/hide containers to create a fully dynamic and user-friendly Tableau dashboard.
