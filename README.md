@@ -11,3 +11,4 @@ With this report we can findout what are the top 5 products,which category is in
 
 The Data is from Sample Superstore
 here is the screenshot of the dashboard 
+https://github.com/SaikeerthiBannur/Analytics-Report-for-Superstore-USA/blob/main/Snapshot%20of%20Dashboard.png
